@@ -2,7 +2,7 @@
 
 个人JavaScript 算法练习。
 
-参考：https://github.com/ooszone/grokking_algorithms 各种语言版本
+其他各种语言可参考《算法图解》官方：https://github.com/egonSchiele/grokking_algorithms
 
 > 学习路线：摘自《算法图解》中文版（墙裂推荐！！！）
 
