@@ -4,7 +4,7 @@
 
 其他各种语言可参考《算法图解》官方：https://github.com/egonSchiele/grokking_algorithms
 
-> 学习路线：摘自《算法图解》中文版（墙裂推荐！！！）
+> 学习路线：摘自《算法图解》中文版（推荐阅读）
 
 ### 基础篇
 
