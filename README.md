@@ -1,4 +1,4 @@
-# 《算法图解》（《grokking algorithms》）练习
+# 《算法图解》（《Grokking Algorithms》）练习
 
 个人JavaScript 算法练习。
 
